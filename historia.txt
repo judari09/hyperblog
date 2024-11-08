@@ -1,4 +1,4 @@
 Esta es mi historia 
 tengo 22 años
 disfrutenlo amigos  xd
-este cambio se borrara en el siguiente commit
+el cambio fue borrado
